@@ -1,0 +1,10 @@
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\bin\Debug\Newton-Rhapson.exe.config
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\bin\Debug\Newton-Rhapson.exe
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\bin\Debug\Newton-Rhapson.pdb
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton-Rhapson.csproj.AssemblyReference.cache
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton_Rhapson.Form1.resources
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton_Rhapson.Properties.Resources.resources
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton-Rhapson.csproj.GenerateResource.cache
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton-Rhapson.csproj.CoreCompileInputs.cache
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton-Rhapson.exe
+C:\Users\fachr\source\repos\Newton-Rhapson\Newton-Rhapson\obj\Debug\Newton-Rhapson.pdb
